@@ -14,11 +14,12 @@ math
 end
 
 def multiplication(num1, num2)
-
+math = num1*num2
+math
 end
 
 def modulo(num1, num2)
-
+math =
 end
 
 def square_root(num)
